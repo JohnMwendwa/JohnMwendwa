@@ -9,8 +9,6 @@
 - 💉 I love coming up with solutions to problems that affect our every day life.
 - 🔭 I’m currently learning more about mysql database.
 
-<br>
-
 ### **Languages and Tools:**  
 
 <code><img height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -19,17 +17,16 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
   
-
-<br />
-
+  <p>
 <a href="https://github.com/johnmwendwa">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnmwendwa&show_icons=true&theme=codeSTACKr&line_height=27" alt="John's github stats"/>
 </a>
-
-<br />
-
+</p>
+<p>
 <a href="https://github.com/johnmwendwa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmwendwa&theme=codeSTACKr&hide_langs_below=1" />
 </a>
+</p>
+<p>NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.</p>
 
 
