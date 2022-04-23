@@ -24,12 +24,12 @@
 
 <a href="https://github.com/johnmwendwa">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnmwendwa&show_icons=true&theme=codeSTACKr&line_height=27" alt="John's github stats"/>
+</a>
 
- <br />
+<br />
 
 <a href="https://github.com/johnmwendwa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmwendwa&theme=codeSTACKr&hide_langs_below=1" />
 </a>
 
-</a>
 
