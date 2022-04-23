@@ -5,7 +5,7 @@
 **About me**
 
 - 👯 I’m a fullstack `web developer`.
-- 💻 I'm so far well versed in `html`, `css`, `javascript`, `Saas`, `React`, and `Mongodb`
+- 💻 I'm so far well versed in `html` `css` `javascript` `Saas` `React` and `Mongodb`
 - 💉 I love coming up with solutions to problems that affect our every day life.
 - 🔭 I’m currently learning more about mysql database.
 
@@ -17,7 +17,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/saas/saas.png"></code>  
 
 <br />
 
