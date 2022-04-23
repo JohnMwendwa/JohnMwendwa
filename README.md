@@ -31,31 +31,4 @@
 </a>
 
 </a>
-<br />
-
-
-### Some of my repos:
-
-
-<a href="https://github.com/johnmwendwa/multiplication-table">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnmwendwa&repo=multiplication-table&theme=codeSTACKr" />
-</a> 
-<a href="https://github.com/johnmwendwa/photo-gallery"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnmwendwa&repo=photo-gallery&theme=codeSTACKr" />
-</a> |
-
-<br />
-
-<a href="https://github.com/johnmwendwa/materialize-preloaders">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnmwendwa&repo=materialize-preloaders&theme=codeSTACKr" />
-</a>
-<a href="https://github.com/johnmwendwa/Responsive-navbar-and-Sticky-footer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnmwendwa&repo=Responsive-navbar-and-Sticky-footer&theme=codeSTACKr" />
-</a>
-
-<br />
-
-<a href="https://github.com/johnmwendwa/aviation">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnmwendwa&repo=aviation&theme=codeSTACKr" />
-</a>
-
 
