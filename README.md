@@ -1,16 +1,61 @@
-### Hi there 👋
+## Hi... I'm [John Mwendwa!](https://johnmwendwa)  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> 
 
-<!--
-**JohnMwendwa/JohnMwendwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate self-taught sotware and hardware engineer from Nairobi, Kenya.
 
-Here are some ideas to get you started:
+**About me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m a fullstack `web developer`.
+- 💻 I'm so far well versed in `html`, `css`, `javascript`, `Saas`, `React`, and `Mongodb`
+- 💉 I love coming up with solutions to problems that affect our every day life.
+- 🔭 I’m currently learning more about mysql database.
+
+<br>
+
+### **Languages and Tools:**  
+
+<code><img height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+<br />
+
+<a href="https://github.com/johnmwendwa">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnmwendwa&show_icons=true&theme=codeSTACKr&line_height=27" alt="John's github stats"/>
+
+ <br />
+
+<a href="https://github.com/johnmwendwa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmwendwa&theme=codeSTACKr&hide_langs_below=1" />
+</a>
+
+</a>
+<br />
+
+
+### Some of my repos:
+
+
+<a href="https://github.com/johnmwendwa/multiplication-table">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnmwendwa&repo=multiplication-table&theme=codeSTACKr" />
+</a> 
+<a href="https://github.com/johnmwendwa/photo-gallery"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnmwendwa&repo=photo-gallery&theme=codeSTACKr" />
+</a> |
+
+<br />
+
+<a href="https://github.com/johnmwendwa/materialize-preloaders">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnmwendwa&repo=materialize-preloaders&theme=codeSTACKr" />
+</a>
+<a href="https://github.com/johnmwendwa/Responsive-navbar-and-Sticky-footer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnmwendwa&repo=Responsive-navbar-and-Sticky-footer&theme=codeSTACKr" />
+</a>
+
+<br />
+
+<a href="https://github.com/johnmwendwa/aviation">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnmwendwa&repo=aviation&theme=codeSTACKr" />
+</a>
+
+
