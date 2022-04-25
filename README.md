@@ -16,8 +16,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+
+<p align="center">
+    <a href="https://github.com/johnmwendwa/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="John Mwendwa's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=johnmwendwa&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
   
-  <p>
+## 📊 My Github Stats
+ <p>
 <a href="https://github.com/johnmwendwa">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnmwendwa&show_icons=true&theme=codeSTACKr&line_height=27" alt="John's github stats"/>
 </a>
