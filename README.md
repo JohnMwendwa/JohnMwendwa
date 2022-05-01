@@ -13,6 +13,7 @@
 ### **Languages and Tools:**  
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,mongodb,react,expressjs,vscode,md,git,github)](https://skills.thijs.gg)
 
+## **Current Streak**
 <p align="center">
     <a href="https://github.com/johnmwendwa/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="John Mwendwa's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=johnmwendwa&theme=highcontrast&hide_border=true&stroke=0000&background=060A0CD0"/>
