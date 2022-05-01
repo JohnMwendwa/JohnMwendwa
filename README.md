@@ -8,6 +8,7 @@
 - 💻 I'm so far well versed in `html` `css` `javascript` `Saas` `React` and `Mongodb`
 - 💉 I love coming up with solutions to problems that affect our every day life.
 - 🔭 I’m currently learning more about mysql database.
+- 📧 You can reach me through mail : dev.johnmwendwa@gmail.com
 
 ### **Languages and Tools:**  
 
