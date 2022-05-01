@@ -1,6 +1,6 @@
 ## Hi... I'm [John Mwendwa!](https://johnmwendwa)  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> 
 
-### A passionate self-taught sotware and hardware engineer from Nairobi, Kenya.
+### A passionate self-taught software and hardware engineer from Nairobi, Kenya.
 
 **About me**
 
