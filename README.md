@@ -11,12 +11,7 @@
 - 📧 You can reach me through mail : dev.johnmwendwa@gmail.com
 
 ### **Languages and Tools:**  
-
-<code><img height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,mongodb,react,expressjs,vscode,md,git,github)](https://skills.thijs.gg)
 
 <p align="center">
     <a href="https://github.com/johnmwendwa/github-readme-streak-stats">
