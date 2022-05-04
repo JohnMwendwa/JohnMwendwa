@@ -1,8 +1,8 @@
-## Hi... I'm **John Mwendwa**  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> 
+# Hi... I'm **John Mwendwa**  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> 
 
 ### A passionate self-taught software and hardware engineer from Nairobi, Kenya.
 
-**About me**
+##  About Me 😎
 
 - 👯 I’m a fullstack `web developer`.
 - 💻 I'm so far well versed in `html` `css` `javascript` `Saas` `React` and `Mongodb`
