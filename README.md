@@ -1,11 +1,12 @@
-# Hi... I'm John  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> 
+# Hi... I'm John   <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="40">
 
 ### A passionate self-taught software and hardware engineer from Nairobi, Kenya.
+
 
 ##  About Me 😎
 
 - 👯 I’m a fullstack `web developer`.
-- 💻 I'm so far well versed in `html` `css` `javascript` `Saas` `React` and `Mongodb`
+- 💻 Languages and databases :  `html` `css` `javascript` `Saas` `React` `Express` `Nodejs` and `Mongodb`
 - 💉 I love coming up with solutions to problems that affect our every day life.
 - 🔭 I’m currently learning more about mysql database.
 - 📧 You can reach me through mail @ dev.johnmwendwa@gmail.com
