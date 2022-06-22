@@ -8,7 +8,7 @@
 - 👯 I’m a fullstack `web developer`.
 - 💻 Languages and databases :  `html` `css` `javascript` `Saas` `React` `Express` `Nodejs` and `Mongodb`
 - 💉 I love coming up with solutions to problems that affect our every day life.
-- 🔭 I’m currently learning more about mysql database.
+<!-- - 🔭 I’m currently learning more about mysql database. -->
 - 📧 You can reach me through mail @ dev.johnmwendwa@gmail.com
 
 ### **Languages and Tools:**  
