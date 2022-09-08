@@ -6,13 +6,13 @@
 ##  About Me 😎
 
 - 👯 I’m a fullstack `web developer`
-- 💻 Languages and databases :  `html` `css` `javascript` `Saas` `React` `Express` `Nodejs` and `Mongodb`
+- 💻 Languages and databases :  `html` `css` `javascript` `Saas` `Reactjs` `Nextjs` `React Native` `Express` `Nodejs` and `Mongodb`
 - 💉 I love coming up with solutions to problems that affect our every day life
 - 🔭 I’m currently working on a  [Mobile App](https://github.com/JohnMwendwa "Project coming soon")
 - 📧 You can reach me through mail @ dev.johnmwendwa@gmail.com
 
 ### **Languages and Tools:**  
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,sass,nodejs,mongodb,react,expressjs,vscode,md,git,github,photoshop,illustrator)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,sass,next,nodejs,mongodb,react,expressjs,vscode,md,git,github,photoshop,illustrator)](https://skills.thijs.gg)
 
 ## **Current Streak**
 <p>
