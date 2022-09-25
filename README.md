@@ -9,7 +9,7 @@
 - 💻 Languages and databases :  `html` `css` `javascript` `Saas` `Reactjs` `Nextjs` `React Native` `Express` `Nodejs` and `Mongodb`
 - 💉 I love coming up with solutions to problems that affect our every day life
 - 🔭 I’m currently working on a  [Mobile App](https://github.com/JohnMwendwa "Project coming soon")
-- 📧 You can reach me through: <a href="www.johnmwendwa.me">Website</a>   ||  <a href="mailto:dev.johnmwendwa@gmail.com">Email</a>
+- 📧 You can reach me through: <a href="https://johnmwendwa.me">Website</a>   ||  <a href="mailto:dev.johnmwendwa@gmail.com">Email</a>
 
 ### **Languages and Tools:**  
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,sass,next,nodejs,mongodb,react,expressjs,vscode,md,git,github,photoshop,illustrator)](https://skills.thijs.gg)
