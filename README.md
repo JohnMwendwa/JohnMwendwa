@@ -5,7 +5,7 @@
 
 ##  About Me 😎
 
-- 👯 I’m a fullstack `web and mobile developer`
+- 👯 I’m a full stack `web and mobile developer`
 - 💻 Languages and databases :  `html` `css` `javascript` `Saas` `Reactjs` `Nextjs` `React Native` `Express` `Nodejs` and `Mongodb`
 - 💉 I love coming up with solutions to problems that affect our every day life
 - 🔭 I’m currently working on a  [Mobile App](https://github.com/JohnMwendwa "Project coming soon")
