@@ -37,7 +37,7 @@
 </p>
 
 <p>NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.</p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnmwendwa&show_icons=true&locale=en" alt="john mwendwa" /></p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
