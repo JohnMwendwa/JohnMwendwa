@@ -10,7 +10,6 @@
 - 💉 I love coming up with solutions to problems that affect our every day life
 - 🔭 I’m currently working on a  [Blog website](https://blog.johnmwendwa.me "Blog website")
 - 📧 You can reach me through: <a href="https://johnmwendwa.me">Website</a>   ||  <a href="mailto:dev.johnmwendwa@gmail.com">Email</a>
-- 🌄 Currently on a vacation 
 
 ### **Languages and Tools:**  
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,sass,react,next,expressjs,nodejs,mongodb,firebase,md,git,github,xd,vscode,jest,styledcomponents&perline=13)](https://skills.thijs.gg)
