@@ -5,8 +5,8 @@
 
 ##  About Me 😎
 
-- 👯 I’m a full stack `web and mobile developer`
-- 💻 Languages and databases :  `html` `css` `javascript` `Saas` `Reactjs` `Nextjs` `React Native` `Express` `Nodejs` and `Mongodb`
+- 👯 I’m a full stack `web developer`
+- 💻 Languages and databases :  `html` `css` `javascript` `TypeScript` `Tailwindcss` `Reactjs` `Nextjs` `Express` `Nodejs` and `MongoDB`
 - 💉 I love coming up with solutions to problems that affect our every day life
 - 🔭 I’m currently working on a  [Blog website](https://blog.johnmwendwa.me "Blog website")
 - 📧 You can reach me through: <a href="https://johnmwendwa.me">Website</a>   ||  <a href="mailto:dev.johnmwendwa@gmail.com">Email</a>
