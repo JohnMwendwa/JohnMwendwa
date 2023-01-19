@@ -1,14 +1,12 @@
 # Hi... I'm John   <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="40">
 
-### A passionate self-taught software and hardware engineer from Nairobi, Kenya.
-
+A passionate self-taught software and hardware engineer from Nairobi, Kenya.
 
 ##  About Me 😎
 
 - 👯 I’m a full stack `web developer`
 - 💻 Languages and databases :  `html` `css` `javascript` `TypeScript` `Tailwindcss` `Reactjs` `Nextjs` `Express` `Nodejs` and `MongoDB`
 - 💉 I love coming up with solutions to problems that affect our every day life
-- 🔭 I’m currently working on a  [Blog website](https://blog.johnmwendwa.me "Blog website")
 - 📧 You can reach me through: <a href="https://johnmwendwa.me">Website</a>   ||  <a href="mailto:dev.johnmwendwa@gmail.com">Email</a>
 
 ### **Languages and Tools:**  
