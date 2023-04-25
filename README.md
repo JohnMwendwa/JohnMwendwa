@@ -15,11 +15,11 @@ I’m a passionate **full stack web developer** from Nairobi, Kenya.
  <a href="#">![John's github stats](https://github-readme-stats.vercel.app/api?username=johnmwendwa&show_icons=true&theme=codeSTACKr&count_private=true&line_height=20)</a>
  <a href="#">![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmwendwa&theme=codeSTACKr&layout=compact&count_private=true&hide_border=true)</a>
 
- <p>NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.</p>
+**NOTE:** This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 </details>   
 
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
