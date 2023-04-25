@@ -8,6 +8,7 @@
 - 💻 Languages and databases :  `html` `css` `javascript` `TypeScript` `Tailwindcss` `Reactjs` `Nextjs` `Express` `Nodejs` and `MongoDB`
 - 💉 I love coming up with solutions to problems that affect our every day life
 - 📧 You can reach me through: <a href="https://johnmwendwa.me">Website</a>   ||  <a href="mailto:dev.johnmwendwa@gmail.com">Email</a>
+- Currently working on <a href="https://blog.johnmwendwa.me">a blog for all developers</a>
 
 ### **Languages and Tools:**  
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postma,stackoverflown&perline=13)](https://skills.thijs.gg)
