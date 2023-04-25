@@ -10,7 +10,7 @@
 - 📧 You can reach me through: <a href="https://johnmwendwa.me">Website</a>   ||  <a href="mailto:dev.johnmwendwa@gmail.com">Email</a>
 
 ### **Languages and Tools:**  
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,sass,react,next,expressjs,nodejs,mongodb,firebase,md,git,github,xd,vscode,jest,styledcomponents&perline=13)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postma,stackoverflown&perline=13)](https://skills.thijs.gg)
 
 
 ## **Current Streak**
