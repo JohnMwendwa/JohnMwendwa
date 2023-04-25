@@ -4,7 +4,7 @@ I’m a passionate **full stack web developer** from Nairobi, Kenya.
 - Currently working on <a href="https://blog.johnmwendwa.me">a blog for all developers</a>
 
 ### **Languages and Tools:**  
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postma,stackoverflown&perline=13)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](https://skills.thijs.gg)
 
 ### **Current Streak**
 <a href="#">![John Mwendwa's current streak](https://github-readme-streak-stats.herokuapp.com/?user=johnmwendwa&theme=highcontrast&hide_border=true&stroke=0000&background=060A0CD0&count_private=true)</a>
