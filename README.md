@@ -7,6 +7,7 @@ I’m a passionate **full stack web developer** from Nairobi, Kenya.
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
 
 ### Github Stats ⚡
+
  [![John's github stats](https://github-readme-stats.vercel.app/api?username=johnmwendwa&show_icons=true&theme=codeSTACKr&count_private=true&line_height=20)](#)
  
  [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmwendwa&theme=codeSTACKr&layout=compact&count_private=true&hide_border=true)](#)
