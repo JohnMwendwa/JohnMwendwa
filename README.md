@@ -1,4 +1,4 @@
-# Hi... I'm John   <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" width="40">
+# Hi... I'm John   <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40">
 I’m a passionate **full stack web developer** from Nairobi, Kenya.
 - You can reach me through: <a href="https://johnmwendwa.me">Website</a>   ||  <a href="mailto:dev.johnmwendwa@gmail.com">Email</a>
 - Currently working on <a href="https://blog.johnmwendwa.me">a blog for all developers</a>
