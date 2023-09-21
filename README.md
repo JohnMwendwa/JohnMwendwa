@@ -13,8 +13,8 @@ A **Full Stack Developer** and an advocate for building **responsive**, **access
  [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmwendwa&theme=codeSTACKr&layout=compact&count_private=true&hide_border=true)](#)
 
 <details>
-    <summary><h3>Current Streak</h3></summary>
-    
+   <summary>Current Streak</summary><br />
+ 
 [![John Mwendwa's current streak](https://github-readme-streak-stats.herokuapp.com/?user=johnmwendwa&theme=highcontrast&hide_border=true&stroke=0000&background=060A0CD0&count_private=true)](#)
 
 </details>   
