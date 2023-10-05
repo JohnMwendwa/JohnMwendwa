@@ -8,17 +8,11 @@ A **Full Stack Developer** and an advocate for building **responsive**, **access
 
 ### Github Stats ⚡
 
- [![John's github stats](https://github-readme-stats.vercel.app/api?username=johnmwendwa&show_icons=true&theme=codeSTACKr&count_private=true&line_height=20)](#)
+ [![John's github stats](https://github-readme-mwendwa.vercel.app/api?username=johnmwendwa&show_icons=true&theme=codeSTACKr&count_private=true&line_height=20)](#)
  
- [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmwendwa&theme=codeSTACKr&layout=compact&count_private=true&hide_border=true)](#)
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=johnmwendwa&theme=codeSTACKr&layout=compact&count_private=true&hide_border=true)](#)
 
-<details>
-   <summary>Current Streak</summary><br />
- 
-[![John Mwendwa's current streak](https://github-readme-streak-stats.herokuapp.com/?user=johnmwendwa&theme=highcontrast&hide_border=true&stroke=0000&background=060A0CD0&count_private=true)](#)
-
-</details>   
-
+[![John Mwendwa's current streak](https://github-readme-streak-stats-blush.vercel.app/?user=johnmwendwa&theme=highcontrast&hide_border=true&stroke=0000&background=060A0CD0&count_private=true)](#)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
