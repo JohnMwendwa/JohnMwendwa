@@ -1,7 +1,15 @@
-# Hi... I'm John   <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40">
-A **Full Stack Developer** and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in Nairobi, Kenya. Want to create an amazing experience for your clients? Well, your search is over.
-- You can reach me through: <a href="https://johnmwendwa.vercel.app">Website</a>   ||  <a href="mailto:dev.johnmwendwa@gmail.com">Email</a>
+<h1>Hi... I'm John <a href="#"><a/><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1> 
+
+A **Full Stack Developer** and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in Nairobi, Kenya. 
+- Open to project collaborations
+- You can reach me through: <a href="https://johnmwendwa.vercel.app">Website</a>   |  <a href="mailto:dev.johnmwendwa@gmail.com">Email</a>
 - Currently working on <a href="https://developers-home.vercel.app">a blog for all developers</a>
+
+### My Recent Projects
+1. [Vet management system](https://vet-management-system.vercel.app/)
+2. [Movies website](https://react-movies-lac.vercel.app/)
+3. [Photo search gallery](https://next-gallery-johnmwendwa.vercel.app/)
+4. [Current book read](https://current-book.vercel.app/)
 
 ### **Languages and Tools:**  
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
