@@ -3,13 +3,15 @@
 A **Full Stack Developer** and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in Nairobi, Kenya. 
 - Open to project collaborations
 - You can reach me through: <a href="https://johnmwendwa.vercel.app">Website</a>   |  <a href="mailto:dev.johnmwendwa@gmail.com">Email</a>
-- Currently working on <a href="https://developers-home.vercel.app">a blog for all developers</a>
+- Currently working on <a href="https://book-commerce-murex.vercel.app/">book commerce</a>
 
 ### My Recent Projects
-1. [Vet management system](https://vet-management-system.vercel.app/)
-2. [Movies website](https://react-movies-lac.vercel.app/)
-3. [Photo search gallery](https://next-gallery-johnmwendwa.vercel.app/)
-4. [Current book read](https://current-book.vercel.app/)
+
+ 1. [BookCommerce](https://book-commerce-murex.vercel.app/)
+ 2. [Vet management system](https://vet-management-system.vercel.app/)
+ 3. [Movies website](https://react-movies-lac.vercel.app/)
+ 4. [Photo search gallery](https://next-gallery-johnmwendwa.vercel.app/)
+ 5. [Blog for all developers](https://developers-home.vercel.app/)
 
 ### **Languages and Tools:**  
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
