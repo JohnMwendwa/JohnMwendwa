@@ -4,6 +4,7 @@ A **Full Stack Developer** and an advocate for building **responsive**, **access
 - Open to project collaborations
 - You can reach me through: <a href="https://johnmwendwa.vercel.app">Website</a>   |  <a href="mailto:dev.johnmwendwa@gmail.com">Email</a>
 - Currently working on <a href="https://book-commerce-murex.vercel.app/">book commerce</a>
+ 
 
 ### My Recent Projects
 
@@ -18,11 +19,11 @@ A **Full Stack Developer** and an advocate for building **responsive**, **access
 
 ### Github Stats ⚡
 
- [![John's github stats](https://github-readme-mwendwa.vercel.app/api?username=johnmwendwa&show_icons=true&theme=codeSTACKr&count_private=true&line_height=20)](#)
+ [![John's github stats](https://bad-apple-github-readme.vercel.app/api?username=johnmwendwa&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=johnmwendwa&theme=codeSTACKr&layout=compact&count_private=true&hide_border=true)](#)
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=johnmwendwa&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![John Mwendwa's current streak](https://github-readme-streak-stats-blush.vercel.app/?user=johnmwendwa&theme=highcontrast&hide_border=true&stroke=0000&background=060A0CD0&count_private=true)](#)
+[![John Mwendwa's current streak](https://github-readme-streak-stats-blush.vercel.app/?user=johnmwendwa&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
