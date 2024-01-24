@@ -13,7 +13,7 @@ A **Full Stack** freelance developer  and an advocate for building **responsive*
  2. [Movies website](https://react-movies-lac.vercel.app/)
  3. [Photo search gallery](https://next-gallery-johnmwendwa.vercel.app/)
  4. [Blog for all developers](https://developers-home.vercel.app/)
- 5. [Social profie card](https://johnmwendwa.github.io/social-profile-card/)
+ 5. [Social profile card](https://johnmwendwa.github.io/social-profile-card/)
  6. [Blog preview card](https://johnmwendwa.github.io/blog-preview-card)
 
 ### **Languages and Tools:**  
