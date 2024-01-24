@@ -9,11 +9,12 @@ A **Full Stack** freelance developer  and an advocate for building **responsive*
 
 ### My Recent Projects
 
- 1. [BookCommerce](https://book-commerce-murex.vercel.app/)
- 2. [Vet management system](https://vet-management-system.vercel.app/)
- 3. [Movies website](https://react-movies-lac.vercel.app/)
- 4. [Photo search gallery](https://next-gallery-johnmwendwa.vercel.app/)
- 5. [Blog for all developers](https://developers-home.vercel.app/)
+ 1. [Vet management system](https://vet-management-system.vercel.app/)
+ 2. [Movies website](https://react-movies-lac.vercel.app/)
+ 3. [Photo search gallery](https://next-gallery-johnmwendwa.vercel.app/)
+ 4. [Blog for all developers](https://developers-home.vercel.app/)
+ 5. [Social profie card](https://johnmwendwa.github.io/social-profile-card/)
+ 6. [Blog preview card](https://johnmwendwa.github.io/blog-preview-card)
 
 ### **Languages and Tools:**  
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
