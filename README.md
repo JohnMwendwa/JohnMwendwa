@@ -15,7 +15,9 @@ A **Full Stack** freelance developer  and an advocate for building **responsive*
  4. [Blog for all developers](https://developers-home.vercel.app/)
  5. [Social profile card](https://johnmwendwa.github.io/social-profile-card/)
  6. [Blog preview card](https://johnmwendwa.github.io/blog-preview-card)
- 7. [FAQ accordion](https://johnmwendwa.github.io/faq-accordion)
+ 7. [Pricing component with toggle](https://johnmwendwa.github.io/pricing-component-with-toggle)
+ 8. [Four card feature section](https://johnmwendwa.github.io/four-card-feature-section)
+ 9. [FAQ accordion](https://johnmwendwa.github.io/faq-accordion)
 
 ### **Languages and Tools:**  
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
