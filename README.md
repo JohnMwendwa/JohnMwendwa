@@ -1,6 +1,6 @@
 <h1>Hi... I'm John <a href="#"><a/><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1> 
 
-A **Full Stack** freelance developer  and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in Nairobi, Kenya. 
+A **Full Stack Developer**  and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in Nairobi, Kenya. 
 - Open to project collaborations
 - You can reach me through: <a href="https://johnmwendwa.vercel.app">Website</a>   |  <a href="mailto:dev.johnmwendwa@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/john-mwendwa/">
  <img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
