@@ -14,11 +14,14 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
  2. [Movies website](https://react-movies-lac.vercel.app/)
  3. [Photo search gallery](https://next-gallery-johnmwendwa.vercel.app/)
  4. [Blog for all developers](https://developers-home.vercel.app/)
- 5. [Social profile card](https://johnmwendwa.github.io/social-profile-card/)
+ 5. [Multi-step form](https://johnmwendwa.github.io/advanced-multi-step-form/)
  6. [Blog preview card](https://johnmwendwa.github.io/blog-preview-card)
- 7. [Pricing component with toggle](https://johnmwendwa.github.io/pricing-component-with-toggle)
- 8. [Four card feature section](https://johnmwendwa.github.io/four-card-feature-section)
- 9. [Interactive rating component](https://johnmwendwa.github.io/interactive-rating-component)
+ 7. [Huddle Landing page](https://johnmwendwa.github.io/huddle-landing-page/)
+ 8. [Pricing component with toggle](https://johnmwendwa.github.io/pricing-component-with-toggle)
+ 9. [Social proof section](https://johnmwendwa.github.io/social-proof-section/)
+ 10. [Social profile card](https://johnmwendwa.github.io/social-profile-card/)
+ 11. [Four card feature section](https://johnmwendwa.github.io/four-card-feature-section)
+ 12. [Interactive rating component](https://johnmwendwa.github.io/interactive-rating-component)
 
 ### **Languages and Tools:**  
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
