@@ -2,7 +2,7 @@
 
 A **Full Stack Developer**  and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in Nairobi, Kenya. 
 - Open to project collaborations
-- You can reach me through: <a href="https://johnmwendwa.vercel.app" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a> <a href="mailto:dev.johnmwendwa@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D15536?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/254747237927" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/john-mwendwa/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
+- You can reach me through: <a href="https://johnmwendwa.vercel.app" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a> <a href="mailto:dev.johnmwendwa@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D15336?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/254747237927" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/john-mwendwa/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
 - **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
 [- Currently working on <a href="https://book-commerce-murex.vercel.app/">book commerce</a>]::
@@ -28,25 +28,24 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:** 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width=55>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width=55>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width=55>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width=55>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width=55>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" width=55>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width=55>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width=55 style="filter: invert(100%);">
-<img src="/express-js.png" width=55 style="filter: invert(100%);">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width=55>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width=55>
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width=55>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width=55>
-<img src="/github.png" width=55 style="filter: invert(100%);">
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width=55>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width=55>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fstyled-components&psig=AOvVaw2DOjza9xHRG0VbtdO66rbS&ust=1716384983631000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjEpb3unoYDFQAAAAAdAAAAABAD" width=55>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" width=55>
-<img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original-wordmark.svg" width=55>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width=53>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width=53>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width=53>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width=53>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width=53>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" width=53>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width=53>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width=53 style="filter: invert(100%);">
+<img src="/express-js.png" width=53 style="filter: invert(100%);">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width=53>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width=53>
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width=53>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width=53>
+<img src="/github.png" width=53 style="filter: invert(100%);">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width=53>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width=53>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" width=53>
+<img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original-wordmark.svg" width=53>
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
