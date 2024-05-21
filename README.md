@@ -35,7 +35,7 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width=40>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original-wordmark.svg" width=40>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width=40>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width=40 style="filter: invert(100%);">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width=40 style="filter: invert(100%);">
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width=40 style="filter: invert(100%);">
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width=40>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width=40>
