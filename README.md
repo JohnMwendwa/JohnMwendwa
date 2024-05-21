@@ -26,7 +26,8 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
  15. [Four card feature section](https://johnmwendwa.github.io/four-card-feature-section)
  16. [Interactive rating component](https://johnmwendwa.github.io/interactive-rating-component)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:** 
+[![My Skills](https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png)
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width=48>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width=48>
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width=48>
