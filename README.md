@@ -29,24 +29,24 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width=40>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fstyled-components&psig=AOvVaw2DOjza9xHRG0VbtdO66rbS&ust=1716384983631000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjEpb3unoYDFQAAAAAdAAAAABAD">
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original-wordmark.svg">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original-wordmark.svg" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width=40>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fstyled-components&psig=AOvVaw2DOjza9xHRG0VbtdO66rbS&ust=1716384983631000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjEpb3unoYDFQAAAAAdAAAAABAD" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original-wordmark.svg" width=40>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
