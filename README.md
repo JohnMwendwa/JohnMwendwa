@@ -30,10 +30,10 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width=40>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width=40>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width=40>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width=40>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width=40>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original-wordmark.svg" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" width=40>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width=40>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width=40 style="filter: invert(100%);">
 <img src="/express-js.png" width=40 style="filter: invert(100%);">
