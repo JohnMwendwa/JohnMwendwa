@@ -27,26 +27,7 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
  16. [Interactive rating component](https://johnmwendwa.github.io/interactive-rating-component)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:** 
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width=51>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width=51>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width=51>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width=51>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width=51>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" width=51>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width=51>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width=51 style="filter: invert(100%);">
-<img src="/express-js.png" width=51 style="filter: invert(100%);">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width=51>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width=51>
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width=51>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width=51>
-<img src="/github.png" width=51 style="filter: invert(100%);">
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width=51>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width=51>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" width=51>
-<img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original-wordmark.svg" width=51>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow" alt="Languages and Tools">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
